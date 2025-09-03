@@ -1,4 +1,6 @@
-
+layout: post
+title: "Introduction to my portfolio"
+date: 2025-09-03 23:47:59 +0000
 
 # 🚀 DevOps & Cloud Portfolio ☁️
 
