@@ -1,5 +1,3 @@
-# 👋 Welcome to My DevOps & Cloud Blog!
-
 ## About Me
 
 Hi everyone! (Bonjour à toutes et à tous 🇫🇷🥖)
