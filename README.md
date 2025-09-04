@@ -1,5 +1,3 @@
-## About Me
-
 Hi everyone! (Bonjour à toutes et à tous 🇫🇷🥖)
 
 I'm **Vladimir Polojienko** (aka **Vlad-PLK** on GitHub), a 22-year-old developer currently learning System Administration, DevOps technologies, and Cloud Computing.
