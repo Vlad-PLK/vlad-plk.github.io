@@ -1,5 +1,3 @@
----
-
 # 👋 Welcome to My DevOps & Cloud Blog!
 
 ## About Me
@@ -19,6 +17,4 @@ I've created this blog to document my daily progress and share my work as I chal
 ## Stay Connected
 
 I love my life and my learning journey! Feel free to follow along, reach out, or connect with me for feedback and collaboration.
-
----
 
