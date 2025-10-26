@@ -1,24 +1,24 @@
 ---
 layout: post
-title: "Day 1: Let's Get This Journey Started!"
+title: "Let's Get This Journey Started!"
 date: 2025-09-02 15:00:00 +0000
 categories: [devops, daily-log, roadmap]
 tags: [linux, aws, kubernetes, learning-journey]
 ---
 
-# Day 1: Let's Get This Journey Started! 👋
+# Let's Get This Journey Started! 👋
 
 **Week 1 Focus**: Linux Fundamentals & Networking Basics
 
 Welcome to the very first entry of my DevOps & Cloud Blog! 👋
 
-This entry introduces the structure of my daily posts, my roadmap, and how I'll be documenting my progress day after day over the next 12 to 16 weeks. Think of this as the blueprint for everything that follows.
+This entry introduces the structure of my posts, my roadmap, and how I'll be documenting my progress. Think of this as the blueprint for everything that follows.
 
-## 📋 Daily Blog Structure
+## 📋 Blog Structure
 
 All future entries will follow this consistent format:
 
-**🎯 Daily Context & Objective** - What I'm focusing on and why  
+**🎯 Context & Objective** - What I'm focusing on and why  
 **✅ Work Recap & Achievements** - Concrete things I accomplished  
 **🧗 Challenges & Struggles** - What fought back and gave me trouble  
 **📚 Key Learnings & Progress** - New skills and concepts I actually understood  
@@ -40,7 +40,7 @@ Today is all about creating the foundation to track my progression, set appropri
 
 These aren't just learning goals - they're the building blocks for launching my freelance DevOps consulting business.
 
-## 🚀 Week 1: Foundation Building
+## 🚀 Foundation Building
 
 **Linux Fundamentals & Networking Basics** - Everything in DevOps builds on solid Linux and networking knowledge. Even with my 42 School background, there's always more depth to explore, especially the operational aspects critical for DevOps work.
 
@@ -55,7 +55,5 @@ These aren't just learning goals - they're the building blocks for launching my 
 This blog serves multiple purposes: it keeps me accountable, creates a knowledge base for future reference, and demonstrates my learning process to potential clients and collaborators. Most importantly, it's proof that consistent daily effort leads to real transformation.
 
 Every challenge, breakthrough, and lesson learned will be documented here - the real, unfiltered experience of becoming a DevOps engineer.
-
-**Ready to begin?** Week 1 starts tomorrow with hands-on Linux practice and networking fundamentals. 
 
 Let the journey begin! 🚀

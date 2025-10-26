@@ -1,22 +1,22 @@
 ---
 layout: post
-title: "Day 5: Rebuilding Born2BeRoot—Upgrading My Linux Server Skills"
+title: "Rebuilding Born2BeRoot—Upgrading My Linux Server Skills"
 date: 2025-09-08 20:00:00 +0000
-categories: [devops, daily-log, linux, server-administration]
+categories: [devops, linux, server-administration]
 tags: [debian, virtualbox, server-hardening, wordpress, system-administration]
 ---
 
-# Day 5: Rebuilding Born2BeRoot—Upgrading My Linux Server Skills
+# Rebuilding Born2BeRoot—Upgrading My Linux Server Skills
 
-**Week 1 Focus**: Linux Fundamentals & Networking Basics
+**Focus Area**: Linux Server Administration & Security
 
 ---
 
-## 🎯 Today's Objective
+## 🎯 Context & Objective
 
-Transform a fresh Debian VM into a secure, production-ready server environment. This isn't just a repeat of the 42 School project - it's an upgraded version that incorporates real-world DevOps practices and security hardening.
+Transforming a fresh Debian VM into a secure, production-ready server environment. This isn't just a repeat of the 42 School project - it's an upgraded version that incorporates real-world DevOps practices and security hardening.
 
-## ✅ What I Accomplished
+## ✅ Work Recap & Achievements
 
 **Production-Grade VM Setup**: Created a clean Debian installation on VirtualBox with proper resource allocation and network configuration optimized for server workloads.
 
@@ -48,14 +48,10 @@ Transform a fresh Debian VM into a secure, production-ready server environment. 
 
 **DevOps Mindset Development**: Started thinking like a systems administrator who needs to balance security, performance, and maintainability - crucial skills for infrastructure management.
 
-## 🔄 Daily Reflection
+## ⏭️ Next Steps & Closing Thoughts
 
-This felt like a significant step up from basic command-line work. Managing multiple interacting services and ensuring they're secure and performant requires a different level of thinking. 
+This felt like a significant step up from basic command-line work. Managing multiple interacting services and ensuring they're secure and performant requires a different level of thinking.
 
 The WordPress deployment was particularly satisfying - seeing a complete application stack come together on infrastructure I built and hardened myself.
 
-## ⏭️ Tomorrow's Plan
-
-Deep dive into networking fundamentals and system internals. I want to strengthen my understanding of how data flows through networks, how Linux manages system resources, and how to troubleshoot complex system issues.
-
-Time to master the foundational knowledge that makes advanced DevOps work possible! 🛡️
+Next up: deep diving into networking fundamentals and system internals to strengthen my understanding of how data flows through networks, how Linux manages system resources, and how to troubleshoot complex system issues. 🛡️
