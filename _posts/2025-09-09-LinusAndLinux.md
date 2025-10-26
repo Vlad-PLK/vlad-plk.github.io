@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux System & Network Fundamentals"
+title: "Linux System, Networks and more"
 date: 2025-09-09 20:00:00 +0000
 categories: [devops, linux, networking]
 tags: [tcp-ip, ssh, disk-encryption, security, system-administration]

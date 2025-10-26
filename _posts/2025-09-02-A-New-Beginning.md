@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Let's Get This Journey Started!"
+title: "A New Beginning !"
 date: 2025-09-02 15:00:00 +0000
 categories: [devops, daily-log, roadmap]
 tags: [linux, aws, kubernetes, learning-journey]

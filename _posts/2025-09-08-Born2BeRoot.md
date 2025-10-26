@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rebuilding Born2BeRoot—Upgrading My Linux Server Skills"
+title: "Born2BeRoot or not to be ?"
 date: 2025-09-08 20:00:00 +0000
 categories: [devops, linux, server-administration]
 tags: [debian, virtualbox, server-hardening, wordpress, system-administration]

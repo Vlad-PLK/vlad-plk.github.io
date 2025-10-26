@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mastering Essential Shell Commands"
+title: "Shell and Terminal"
 date: 2025-09-04 22:34:30 +0000
 categories: [devops, linux, shell]
 tags: [shell, bash, commands, linux, documentation, cheat-sheet]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Building the Foundation & Launching My Blog"
+title: "Launching my blog !"
 date: 2025-09-03 23:49:30 +0000
 categories: [devops, linux, blog-setup]
 tags: [linux, networking, ssh, git, jekyll, blog-setup]

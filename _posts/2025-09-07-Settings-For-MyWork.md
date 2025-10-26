@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Setting Up My Mac for DevOps"
+title: "Settings, Mac and Devops"
 date: 2025-09-07 20:00:00 +0000
 categories: [devops, setup, tools]
 tags: [macos, docker, kubernetes, development-environment, tools]
