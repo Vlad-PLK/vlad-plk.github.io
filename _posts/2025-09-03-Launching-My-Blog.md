@@ -6,23 +6,34 @@ categories: [devops, linux, blog-setup]
 tags: [linux, networking, ssh, git, jekyll, blog-setup]
 ---
 
-# Building the Foundation & Launching My Blog
+# Getting the Blog Running
 
-**Focus Area**: Linux Fundamentals & Networking Basics
+**Focus Area**: Linux Basics & Setting Things Up
 
 ---
 
 ## 🎯 Context & Objective
 
-Setting up a GitHub Pages blog to document my DevOps journey and revisiting Linux fundamentals with a DevOps lens. Even though I have solid Linux experience from 42 School, I want to strengthen the DevOps-specific aspects that will be crucial moving forward.
+Getting this GitHub Pages blog up and running while brushing up on Linux fundamentals. I've got a decent foundation from 42 School, but I want to really nail the DevOps-specific stuff.
 
 ## ✅ Work Recap & Achievements
 
-**Blog Infrastructure Complete**: Successfully set up this GitHub Pages blog using Jekyll. The entire process was a great refresher on Git workflows, static site generators, and automated deployment pipelines.
+**Blog is Live**: Got the Jekyll blog working on GitHub Pages. It was a good refresher on Git workflows and how static site generators work.
 
-**Linux Foundation Review**: Spent quality time revisiting core Linux concepts with a DevOps lens, focusing on system administration tasks I'll need for container orchestration and cloud deployments.
+**Blog is Live**: Got the Jekyll blog working on GitHub Pages. It was a good refresher on Git workflows and how static site generators work.
 
-**Development Environment Optimization**: Fine-tuned my workspace for the 12-week journey ahead, ensuring all tools and workflows are properly configured.
+**Linux Review**: Went back over core Linux concepts—file systems, permissions, process management. Focusing on the stuff that matters for containers and cloud deployments.
+
+**Workspace Setup**: Configured my development environment so everything's ready to go.
+
+**What I built:**
+- GitHub Pages blog with Jekyll
+- SSH keys configured for GitHub
+- Reviewed Linux fundamentals with a focus on practical DevOps tasks
+
+## 🧗 Challenges & Struggles
+
+**Development Environment Optimization**: Fine-tuned my workspace for the journey ahead, ensuring all tools and workflows are properly configured.
 
 **Key Deliverables:**
 - Fully functional GitHub Pages blog with custom Jekyll configuration
@@ -30,24 +41,18 @@ Setting up a GitHub Pages blog to document my DevOps journey and revisiting Linu
 - Documented Week 1 learning objectives and technical skill targets
 - SSH key configuration verified and secured for GitHub integration
 
-## 🧗 Challenges & Struggles
-
-**Jekyll Learning Curve**: Had to brush up on Liquid templating and Jekyll's directory structure. The documentation is comprehensive but took some time to navigate effectively.
-
-**Scope Management**: Caught myself wanting to perfect every detail of the blog setup instead of focusing on content creation. Had to remind myself that consistent progress beats perfect presentation.
-
 ## 📚 Key Learnings & Progress
 
-**Technical Skills Gained:**
-- Jekyll static site generation and GitHub Pages deployment workflow
-- Advanced Git branching strategies for documentation and code management
-- Linux systemd service management and process monitoring techniques
-- SSH tunneling and advanced key management for secure remote access
+**What I picked up:**
+- Jekyll and GitHub Pages deployment
+- Git branching for managing docs and code
+- Linux systemd and process monitoring
+- SSH configuration and key management
 
-**DevOps Connections**: Started seeing how foundational Linux skills directly connect to container management, infrastructure automation, and cloud operations. The investment in solid fundamentals pays off throughout the entire learning journey.
+**Making Connections**: Started seeing how Linux basics connect to container management and cloud infrastructure. Good fundamentals make everything else easier.
 
 ## ⏭️ Next Steps & Closing Thoughts
 
-The blog setup took longer than anticipated, but it's a crucial tool for accountability and documentation. My Linux review reinforced how much I've retained from 42 School while highlighting areas where DevOps-specific knowledge builds on this foundation.
+Blog setup took longer than expected, but it's worth having a place to track progress. The Linux review showed me what I remember well and where I need more practice.
 
-Next up: mastering shell commands with a focus on the most critical commands for DevOps workflows, creating a comprehensive reference document that will serve as a quick-access resource throughout my entire learning journey. 💻
+Next: diving into shell commands—building a reference of the most useful commands for DevOps work. 💻
